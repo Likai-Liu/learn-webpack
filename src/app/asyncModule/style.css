@@ -1,0 +1,10 @@
+.async-module {
+    height: 456px;
+    /* background-color: #ddd; */
+    color: #333;
+    font-size: 20px;
+    background-image: url(./assets/webpack.jpeg);
+    background-size: 500px 456px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
